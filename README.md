@@ -1,4 +1,4 @@
-# Lucky-Shrub
+# Lucky-Shrub (Coursera)
 ## Preview 🪴
 
 ![image](https://github.com/DeeptejD/Lucky-Shrub/assets/88930014/f45bc25a-fab6-40f4-b46a-d37bb54a6e32)
